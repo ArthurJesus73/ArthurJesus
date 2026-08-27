@@ -8,7 +8,7 @@ Sou um Estudante de ciência da computação apaixonado por criar soluções ino
 
 *  **Front-end:** HTML, CSS, JavaScript
 
-*  **Back-end:** Python, C+
+*  **Back-end:** Python, C++
 
 *  **Design:** Figma
 
